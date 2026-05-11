@@ -7,10 +7,10 @@
 - ✅ Запущен Python 3.11 в контейнере
 - ✅ Выведено: "Я крутой, Recruto!"
 - не знаю на сколько это важно, мне помогает deepseek. :)
+## Вот что у меня получилось:
 (root@DESKTOP-3E3M6HU:~# docker run -it python:3.11 python -c 'print("Я крутой, Recruto!")'
 Unable to find image 'python:3.11' locally
 Status: Downloaded newer image for python:3.11
 Я крутой, Recruto!)
-вот что у меня получилось
 ## Цель
 Стать Junior Python Developer в Recruto. Готов учиться, писать тесты, подключать API, деплоить проекты.

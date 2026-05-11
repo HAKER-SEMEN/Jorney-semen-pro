@@ -1,0 +1,5 @@
+print("Я Семён, и я готов работать в Recruto!")
+print("Docker: освоен")
+print("Python: в процессе активного изучения")
+print("Цель: Junior Python Developer")
+(это то что я первый раз сделал в python)
